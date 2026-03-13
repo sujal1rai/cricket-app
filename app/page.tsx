@@ -15,7 +15,7 @@ export default function Home() {
           margin: '0 0 16px 0',
           color: '#00d4ff'
         }}>
-          🏏 Welcome to CricketLive
+          🏏 Welcome to CricketLive!
         </h1>
         <h2 style={{ 
           fontSize: '20px', 
